@@ -1,7 +1,6 @@
 # Data Folder Description
 
-This folder documents the datasets used in the project:
-"Analyzing the Relationship Between Bitcoin Market Sentiment and Trader Performance".
+This folder documents the datasets used in this assignment.
 
 
 ---
