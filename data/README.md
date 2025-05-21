@@ -14,6 +14,7 @@ This folder documents the datasets used in this assignment.
   - `value`: Numeric score representing sentiment (0 = Extreme Fear, 100 = Extreme Greed).
   - `classification`: Categorical label of sentiment (e.g., Fear, Greed, Neutral, etc.).
   - `date`: Human-readable date (format: YYYY-MM-DD).
+
 Dataset Link:https://drive.google.com/file/d/1RWlYFZQyZCexD_fCAcTsks-w3_AhDTov/view?usp=sharing
 
 ---
@@ -39,6 +40,7 @@ Dataset Link:https://drive.google.com/file/d/1RWlYFZQyZCexD_fCAcTsks-w3_AhDTov/v
   - `Fee`: Fee paid for executing the trade.
   - `Trade ID`: Unique identifier for the trade.
   - `Timestamp`: UTC timestamp of the trade.
+
 Dataset Link:https://drive.google.com/file/d/1TejJ9iAGDa3U9ncn4Ry3SLJst-uX_0-u/view?usp=sharing
 
 ---
